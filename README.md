@@ -24,11 +24,11 @@ sample app.
 See the [Getting Started Guide][quickstart] for details.  You will need to
 complete the following steps:
 
-- [ ] Sign up for a [Free Predix Account][signup] (no credit card required)
-- [ ] Clone this repository
-- [ ] Run `pip install predix` (making sure you have python 2.7.10+ and pip 9.0.1+)
-- [ ] Run setup scripts
-- [ ] Deploy your app with `cf push`
+- [x] Sign up for a [Free Predix Account][signup] (no credit card required)
+- [x] Clone this repository
+- [x] Run `pip install predix` (making sure you have python 2.7.10+ and pip 9.0.1+)
+- [x] Run setup scripts
+- [x] Deploy your app with `cf push`
 
 The specifics on how to complete these steps can be found in the [Getting Started Guide][quickstart].
 
